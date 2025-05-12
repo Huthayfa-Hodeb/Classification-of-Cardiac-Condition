@@ -18,8 +18,8 @@ This project focuses on the classification of cardiac conditions using Deep Lear
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone [https://github.com/Huthayfa-Hodeb/Classification-of-Cardiac-Condition]
+cd [Classification-of-Cardiac-Condition]
 ```
 
 2. Create a virtual environment (recommended):

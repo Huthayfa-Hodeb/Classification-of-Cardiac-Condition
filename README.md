@@ -4,7 +4,7 @@ This project focuses on the classification of cardiac conditions using Deep Lear
 
 ## Project Structure
 
-- `prepare-dataset.ipynb`: Notebook for data preparation and preprocessing
+- `prepare-dataset.ipynb`: Notebook for data preparation and preprocessing 
   - Handles image loading and preprocessing
   - Performs data augmentation
   - Splits data into training and validation sets
